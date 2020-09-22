@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=lyx990816@gmail.com
+Enabled=true
+Parent=e78ace140828a4566aa518edd591a2caf1534289
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=ed0a0f2f97dd301d63707ada81ed154720446984
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=lyx990816@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

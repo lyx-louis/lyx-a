@@ -1,0 +1,17 @@
+[Data Source]
+DisplayName=Contacts
+Enabled=true
+Parent=e78ace140828a4566aa518edd591a2caf1534289
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=lyx990816@gmail.com
+CredentialName=
+IsExternal=false
+
+[Address Book]
+BackendName=google
